@@ -1,6 +1,6 @@
 {
     "name": "AutoReady",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "author": "WiggleDev",
     "website_url": "",
     "description": "Automatically sets all lobby players to ready for faster game starts.",
